@@ -2,7 +2,7 @@
   "name": "mock-api-render",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
+    "start": "json-server --watch db.json --host 0.0.0.0 --port SPORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
