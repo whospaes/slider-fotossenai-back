@@ -1,0 +1,16 @@
+{
+    "fotos": [
+
+        {"imagem": "https://lh3.googleusercontent.com/pw/AP1GczM7IFWxyGUS_krRHC3KiVCRoRMzTbWt9YxitfFLopk-Wvczy7MQTB9kbQjr6DhYH_RpMi9Iq0D8oBWuJM5Te95lUcNdo38D_wnaQpvnnbvM3JuRsHQVjkdpnxLKl2E-BfpOeIvc2rqJPxQ9OGCO32IOrA=w4608-h2592-s-no-gm?authuser=0", 
+        "legenda": "Ping-pong", 
+        "data": "31/08/2025" }
+        ,
+        { "imagem": "https://lh3.googleusercontent.com/pw/AP1GczPM6gh_fQ4erGAwsz-ffOMUZ9nTySJiMXXdhrcpNb9l3BOJiopLuyBTTl5yjWLC3xFcVNhBEDxaTTeGdUNbGx3zBIlqCSt_zD4Uq2WkYvkknMm8UE5_3ueoghjLl8z9CpD6NxnOwBe2Mp6RQum241snVw=w900-h720-s-no-gm?authuser=0", 
+        "legenda": "Portaria com o Tio Ademar", 
+        "data": "31/08/2025" }
+        ,
+        { "imagem": "https://lh3.googleusercontent.com/pw/AP1GczOLsKbRQZv76yj8yyKisBxzwKAHIO16CatYfQmSQ28S6lwrCGcA4cf-Fg8AQ1fuTN6Ldk8RLD0l6ScakNlpLKG8_gUxe81MjbhDWZf_A3VsdsW9z4abhKakPzsFM400NWznib0wQKTpf7wJlG1MyVQc_Q=w1600-h720-s-no-gm?authuser=0", 
+        "legenda": "Biblioteca - mesa RPG", 
+        "data": "31/08/2025" }
+    ]
+}
